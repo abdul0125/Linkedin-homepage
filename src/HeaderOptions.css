@@ -1,0 +1,21 @@
+.HeaderOptions{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* justify-content: space-around; */
+    margin: 10px;
+    color: grey;
+    cursor: pointer;
+    min-width: 50px;
+    max-width: 120px;
+    width: auto;
+
+}
+.HeaderOptions:hover{
+    color: black;
+}
+.HeaderOptions_icon{
+    height: 25px !important;
+    width: 25px !important;
+    /* width: 25px; */
+}

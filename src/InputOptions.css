@@ -1,0 +1,17 @@
+.inputOptions{
+    display: flex;
+    cursor: pointer;
+    padding: 5px;
+    border-radius: 10px;
+}
+.inputOptions:hover{
+    background-color: whitesmoke;
+    
+}
+
+.inputOptions_title{
+    text-align: center;
+    font-weight: 600;
+    color: gray;
+
+}

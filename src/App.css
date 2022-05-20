@@ -1,0 +1,10 @@
+.App{
+  background-color: #f3f2ef;
+}
+.App_body{
+  display: flex;
+}
+.App>Header{
+  position: fixed;
+
+}
