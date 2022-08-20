@@ -4,7 +4,3 @@
 .App_body{
   display: flex;
 }
-.App>Header{
-  position: fixed;
-
-}
